@@ -19,5 +19,5 @@ Este código é fornecido "como está", sem garantias de qualquer tipo, expressa
 
 ## Créditos*
 
-**Desenvolvedor:** Jeanlerson Santos 
+**Desenvolvedor:** Jeanlerson Santos <br/>
 **Perfil:** [https://hutadev.vercel.app/JeanlersonSantos](https://hutadev.vercel.app/JeanlersonSantos)
