@@ -20,4 +20,4 @@ Este código é fornecido "como está", sem garantias de qualquer tipo, expressa
 ## Créditos*
 
 **Desenvolvedor:** Jeanlerson Santos 
-**Perfil:** [https://hutadev.vercel.app/HelioCarlitosAntonio](https://hutadev.vercel.app/JeanlersonSantos)
+**Perfil:** [https://hutadev.vercel.app/JeanlersonSantos](https://hutadev.vercel.app/JeanlersonSantos)
